@@ -1,0 +1,6 @@
+{
+  "name": "Manuscript to Presentation AI",
+  "description": "Transform journal publications into professional PowerPoint presentations using AI. Upload a PDF, choose a template, and generate slides tailored to your presentation time limit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
